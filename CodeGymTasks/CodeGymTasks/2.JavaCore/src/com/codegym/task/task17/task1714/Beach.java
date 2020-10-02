@@ -57,3 +57,5 @@ public class Beach implements Comparable<Beach> {
         }
     }
 }
+
+// New Comments just to check the git commands
